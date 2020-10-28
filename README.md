@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nazar
 
-## Perhaps I found a dream job ... :simple_smile:
+## Perhaps I found a dream job ...🙂
 
 -   💪 I like to write code
 -   🥅 I am constantly learning new things
