@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nazar
 
-## I want to be FrontEnd Developer
+## Perhaps I found a dream job ... :simple_smile:
 
 -   💪 I like to write code
 -   🥅 I am constantly learning new things
