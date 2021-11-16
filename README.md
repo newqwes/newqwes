@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-<a href="https://cv.ashyrov.ru/"><img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://newqwes.github.io/rsschool-cv/"><img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/qwes/"><img align="left" alt="Nazar Ashyrov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/newnewqwes/"><img align="left" alt="Nazar Ashyrov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://vk.com/newqwes"><img align="left" alt="Nazar Ashyrov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /></a>
