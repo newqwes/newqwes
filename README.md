@@ -4,9 +4,9 @@
 
 -   💪 I like to write code
 -   🥅 I am constantly learning new things
--   🎉 I love to paint and play the guitar
 -   ⚡ I love learning new technologies
--   🤹🏽 I want to speak fluent English
+-   💰 I am passionate about cryptocurrencies and blockchain technology
+-   📊 I enjoy processing data and analyzing statistics
 
 ![](https://komarev.com/ghpvc/?username=newqwes&color=green)
 
@@ -15,12 +15,14 @@
 <a href="https://newqwes.github.io/Ashyrov-Nazar-cv/"><img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/qwes/"><img align="left" alt="Nazar Ashyrov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/newnewqwes/"><img align="left" alt="Nazar Ashyrov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://vk.com/newqwes"><img align="left" alt="Nazar Ashyrov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" /></a>
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
